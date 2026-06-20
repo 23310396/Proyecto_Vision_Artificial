@@ -1,5 +1,7 @@
 # Sistema YOLOv8 para detección de logotipos automotrices
 
+**IMPORTANTE: LAS EVIDENCIAS DEL MODELO ESTÁN EN `runs/detect/ -> evidencias/detecciones/`, CON IMÁGENES PROCESADAS Y BOUNDING BOXES GENERADOS POR YOLOv8.**
+
 ## Descripción general
 
 Este proyecto utiliza visión artificial con YOLOv8 para detectar logotipos de marcas automotrices en imágenes de vehículos.
