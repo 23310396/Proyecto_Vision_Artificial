@@ -1,0 +1,21 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 15
+names:
+  0: audi
+  1: chevrolet
+  2: citroen
+  3: dacia
+  4: ford
+  5: hyundai
+  6: mercedes
+  7: nissan
+  8: peugeot
+  9: renault
+  10: seat
+  11: skoda
+  12: suzuki
+  13: toyota
+  14: volkswagen
